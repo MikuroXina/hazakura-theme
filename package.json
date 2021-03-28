@@ -1,0 +1,23 @@
+{
+	"name": "hazakura-theme",
+	"displayName": "hazakura-theme",
+	"description": "MikuroXina's favorite theme",
+	"version": "1.0.0",
+	"publisher": "MikuroXina",
+	"engines": {
+		"vscode": "^1.29.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": "https://github.com/MikuroXina/hazakura-theme",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hazakura Theme",
+				"uiTheme": "vs",
+				"path": "./themes/hazakura-theme.json"
+			}
+		]
+	}
+}

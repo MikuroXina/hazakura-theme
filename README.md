@@ -1,0 +1,3 @@
+# README
+
+Hazakura Theme
