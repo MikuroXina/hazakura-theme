@@ -1,3 +1,5 @@
-# README
+# Hazakura Theme
 
-Hazakura Theme
+![Screenshot](./SS.png)
+
+---
