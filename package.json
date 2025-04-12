@@ -2,7 +2,7 @@
 	"name": "hazakura-theme",
 	"displayName": "hazakura-theme",
 	"description": "MikuroXina's favorite light theme",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"publisher": "MikuroXina",
 	"engines": {
 		"vscode": "^1.29.0"
@@ -19,5 +19,6 @@
 				"path": "./themes/hazakura-theme.json"
 			}
 		]
-	}
+	},
+	"files": ["LICENSE", "themes/hazakura-theme.json"]
 }
